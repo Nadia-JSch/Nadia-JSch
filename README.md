@@ -2,7 +2,7 @@
 
 - 🇿🇦  My name is Nadia and I am from South Africa. 
 - 🎓  I am a Human Factor's master's graduate - who is branching into software development after the Great Event of 2020.
-- :seedling: I’m adding machine learning and HTML/CSS/Bootstrap to my Java and Python programming skills.
+- :seedling: I’m adding machine learning and HTML/CSS to my Java and Python programming skills.
 - ✔️  I’m looking to collaborate on some interesting open-source projects. 
 - :paw_prints:  _P.S. Cats walking on keyboards are the original cyber hackers._
 
