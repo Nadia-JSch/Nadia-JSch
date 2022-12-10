@@ -1,10 +1,10 @@
 ## Welcome! :wave: :sparkles:
 
-- 🇿🇦  My name is Nadia and I am from South Africa. 
-- 🎓  I am a Human Factors master's graduate - who is branching into software development after the Great Event of 2020.
-- :seedling: I’m adding machine learning and HTML/CSS to my Java and Python programming skills.
-- ✔️  I’m looking to collaborate on some interesting open-source projects. 
-- :paw_prints:  _P.S. Cats walking on keyboards are the original cyber hackers._
+- 🇿🇦  My name is Nadia and I am proudly South African. 
+- 🎓  I spent some time in academica and teaching before branching into development after the Great Event of 2020.
+- :seedling: I’m focusing on improving my front-end development toolbox.
+- ✔️  I started with Python and Java with a pinch of machine learning for good measure.
+- :paw_prints:  _P.S. Cats walking on keyboards are the OG hackers._
 
 <!---
 Nadia-JSch/Nadia-JSch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
