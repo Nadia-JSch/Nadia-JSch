@@ -1,8 +1,9 @@
 ## Welcome! :wave: :sparkles:
 
-- 💻 I'm proudly South African and work in [DevRel](https://en.wikipedia.org/wiki/Developer_relations). I write, help maintain, and edit blogs and documentation related to software development. 
+- 💻 I work in [DevRel](https://en.wikipedia.org/wiki/Developer_relations) where I write, help maintain, and edit blogs and documentation related to software development. 
 - :seedling: I'm passionate about developer-focused content and aspire to become a frontend developer.
 - ✔️  I started coding with Python, Java, and a pinch of machine learning algorithms for good measure.
+- 🇿🇦 I'm from South Africa.
 
 :paw_prints:  _P.S. Cats who walk on keyboards are not programmers, but hackers!_
 
