@@ -1,7 +1,7 @@
 ## Welcome! :wave: :sparkles:
 
 - 💻 I work in [DevRel](https://en.wikipedia.org/wiki/Developer_relations) where I write, help maintain, and edit blogs and documentation related to software development. 
-- :seedling: I'm passionate about developer-focused content and aspire to become a frontend developer.
+- :seedling: I'm passionate about developer-focused content.
 - ✔️  I started coding with Python, Java, and a pinch of machine learning algorithms for good measure.
 - 🇿🇦 I'm from South Africa.
 
